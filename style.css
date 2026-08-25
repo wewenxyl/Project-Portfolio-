@@ -124,12 +124,12 @@ header {
 }
 
 .hero {
-    min-height: 100vh;
+    min-height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 120px 20px 80px;
+    padding: 105px 20px 55px;
     position: relative;
     overflow: hidden;
     background:
@@ -919,8 +919,8 @@ footer p + p {
     }
 
     .hero {
-        min-height: 100svh;
-        padding: 100px 17px 60px;
+        min-height: auto;
+        padding: 90px 17px 45px;
     }
 
     .welcome {
